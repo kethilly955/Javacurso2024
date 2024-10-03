@@ -15,5 +15,10 @@
 	<classpathentry kind="src" path="Repedicoes"/>
 	<classpathentry kind="src" path="Caculadoras"/>
 	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="Classes"/>
+	<classpathentry kind="src" path="05-Lista"/>
+	<classpathentry kind="src" path="Execicios-02"/>
+	<classpathentry kind="src" path="Polimorfismo"/>
+	<classpathentry kind="src" path="Herança"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
