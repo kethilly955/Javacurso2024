@@ -20,5 +20,16 @@
 	<classpathentry kind="src" path="Execicios-02"/>
 	<classpathentry kind="src" path="Polimorfismo"/>
 	<classpathentry kind="src" path="Herança"/>
+	<classpathentry kind="src" path="CRUD"/>
+	<classpathentry kind="src" path="CriandoUmaArry"/>
+	<classpathentry kind="src" path="ProjetoClassePrincipal"/>
+	<classpathentry kind="src" path="VerificaçãoDeCargos"/>
+	<classpathentry kind="src" path="Interface"/>
+	<classpathentry kind="src" path="Interface2"/>
+	<classpathentry kind="src" path="GUI"/>
+	<classpathentry kind="src" path="Exercício 03"/>
+	<classpathentry kind="src" path="Java Stream"/>
+	<classpathentry kind="src" path="Java Stream API"/>
+	<classpathentry kind="src" path="CalculadoraJava"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
